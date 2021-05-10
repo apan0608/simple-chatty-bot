@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Conditional_statement-Triangle:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Conditional statement/Triangle" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Triangle/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Triangle/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Triangle/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Simple_Chatty_Bot.Topics-Conditional_statement-Triangle.main" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Simple_Chatty_Bot.Topics-Conditional_statement-Triangle.main" />
+</module>
